@@ -13,8 +13,8 @@ export default function App() {
         <>
             {/*SECTION 1*/}	
             <div className="main-grid">
-                <div className="grid-item">
-                    <div className="nav-container" id="nav">
+                <div className="grid-item" id="nav-grid-item">
+                    <div className="nav-container">
                             <img src={TurnersLogo} className="nav-item" />
                             <p className="nav-item" id="nav-text-login">Login</p>
                             <p className="nav-item" id="nav-text">Careers</p>
@@ -60,14 +60,12 @@ export default function App() {
                 </div>
 
                 {/*SECTION 3*/}
-                <div className="grid-item" id="blue-section-background">
-                    <div id="car-image">
-                        <img src={Car} />
-                    </div>
+                <div className="grid-item">
+                    <img src={Car} id="car-image"/>
                 </div>
 
                 {/*SECTION 4*/}
-                <div className="grid-item" id="blue-section-background">
+                <div className="grid-item">
                     <div className="section4-grid">
                         <p className="section4-item">Best Deals</p>
                         <p className="section4-item">Book Review</p>
@@ -79,10 +77,8 @@ export default function App() {
                 </div>
 
                 {/*SECTION 5*/}
-                <div className="grid-item" id="blue-section-background">
-                    <div id="speed-image">
-                        <img src={Speed} />
-                    </div>
+                <div className="grid-item">
+                        <img src={Speed} id="speed-image"/>
                 </div>
             </div>
         </>

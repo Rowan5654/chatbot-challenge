@@ -6,6 +6,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+#nav-grid-item {
+    background-color: white;
+}
+
 .section4-grid {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
@@ -15,3 +19,4 @@
 
     padding: 75px 0;
 }
+

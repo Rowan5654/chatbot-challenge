@@ -5,18 +5,10 @@ html {
 
 body {
     margin: 0;
-}
-
-
-#blue-section-background {
     background-color: #C3DAE9;
 }
 
 /* section 1 */
-
-#nav {
-    background-color: white;
-}
 
 .nav-container {
     width: 90%;
@@ -92,8 +84,10 @@ body {
 /* section 3 */
 
 #car-image {
-    width: 90%;
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /* section 4 */
@@ -120,6 +114,8 @@ body {
 /* section 5 */
 
 #speed-image {
-    width: 90%;
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
