@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chatbot-challenge/static/css/main.073c9b0a.css",
-    "main.js": "/chatbot-challenge/static/js/main.1f762357.js",
-    "static/js/787.ce525411.chunk.js": "/chatbot-challenge/static/js/787.ce525411.chunk.js",
-    "static/media/logo.svg": "/chatbot-challenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/chatbot-challenge/static/css/main.cf6396eb.css",
+    "main.js": "/chatbot-challenge/static/js/main.d0acb484.js",
+    "static/media/Car.png": "/chatbot-challenge/static/media/Car.eedd35bf911224e6bbaf.png",
+    "static/media/Speedometer.png": "/chatbot-challenge/static/media/Speedometer.d5fe495f3cb69245ee4c.png",
+    "static/media/Turners logo.png": "/chatbot-challenge/static/media/Turners logo.8835335116d7c361f24b.png",
     "index.html": "/chatbot-challenge/index.html",
-    "main.073c9b0a.css.map": "/chatbot-challenge/static/css/main.073c9b0a.css.map",
-    "main.1f762357.js.map": "/chatbot-challenge/static/js/main.1f762357.js.map",
-    "787.ce525411.chunk.js.map": "/chatbot-challenge/static/js/787.ce525411.chunk.js.map"
+    "main.cf6396eb.css.map": "/chatbot-challenge/static/css/main.cf6396eb.css.map",
+    "main.d0acb484.js.map": "/chatbot-challenge/static/js/main.d0acb484.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1f762357.js"
+    "static/css/main.cf6396eb.css",
+    "static/js/main.d0acb484.js"
   ]
 }
